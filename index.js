@@ -28,8 +28,8 @@ const resolvers = {
         port: 587,
         secure: false,
         auth: {
-        user: 'akdinesh124@gmail.com',
-        pass: 'pgjxiesgsmfdkhqf'
+        user: 'ceiauthenticate@gmail.com',
+        pass: 'hxxjwtqusjrivaqi'
         }
         }); // send mail with defined transport object kannan 
         let info = await transporter.sendMail({
