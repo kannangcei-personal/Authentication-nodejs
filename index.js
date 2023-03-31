@@ -33,7 +33,7 @@ const resolvers = {
         }
         }); // send mail with defined transport object kannan 
         let info = await transporter.sendMail({
-        from: 'akdinesh124@gmail.com',
+        from: 'ceiauthenticate@gmail.com',
         to: email,
         subject: otp,
         text: otp
